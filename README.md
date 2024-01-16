@@ -1,3 +1,2 @@
-# Data-Struct-Python 👩🏻‍💻
----
-Intended to store Data Structure algorithms
+# Estrutura-de-Dados-usando-Python
+Um exercício para transformar exercícios da matéria Estrutura de Dados na linguagem python
